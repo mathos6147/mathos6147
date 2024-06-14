@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palanquin&weight=500&size=45&pause=1000&color=009FF7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi%2C+there!+I'm+SooYeon!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Palanquin&weight=500&size=45&pause=1000&color=009FF7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi%2C+there!+I'm+SunWoo!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <b>함께</b>, <b>빠르게 성장</b>하고 싶은 개발자
+    <b>꾸준함 </b>, <b>끈기로 맡은 바를 기간 내에 완료하고 마는 개발자
 </div>
 
 <h3> 👩🏻‍💻 Tech Stacks </h3>
